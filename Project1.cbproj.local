@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\temp\Фурье\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\temp\Фурье\Unit2.cpp=C:\temp\Фурье 2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,C:\temp\Фурье\Project1.cbproj=C:\Users\mrpes\OneDrive\Документы\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\mrpes\OneDrive\Документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,=C:\Users\mrpes\OneDrive\Документы\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\temp\Фурье\Unit2.dfm=C:\temp\Фурье 2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,=C:\temp\Фурье\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\temp\Фурье\Unit2.h=C:\temp\Фурье 2\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
